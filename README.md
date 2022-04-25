@@ -1,6 +1,10 @@
 # Twitter API Mockup - Stage 2
 
+Stage 1: Microservices and Load Balancing
+Link: https://github.com/bryanmendozatrejo/twitterapimockup_stage1
+
 Stage 2: Polyglot Persistence and Service Discovery / NoSQL and Service Discovery
+Link:
 
 Developers: Bryan Mendoza-Trejo, Eduardo Gomez, Cristian Rodriguez
 
