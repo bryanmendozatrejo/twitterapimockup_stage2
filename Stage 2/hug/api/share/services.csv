@@ -1,0 +1,2 @@
+id,service_name,url,http
+1,serviceRegistry,http://localhost:5500,GET

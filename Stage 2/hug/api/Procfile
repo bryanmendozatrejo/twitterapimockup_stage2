@@ -1,0 +1,6 @@
+DynamoDB: java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
+likes: gunicorn --access-logfile - --capture-output likes:__hug_wsgi__
+users: gunicorn --access-logfile - --capture-output users:__hug_wsgi__
+timelines: gunicorn --access-logfile - --capture-output timelines:__hug_wsgi__
+polls: gunicorn --access-logfile - --capture-output polls:__hug_wsgi__
+serviceRegister: gunicorn --access-logfile - --capture-output serviceRegister:__hug_wsgi__

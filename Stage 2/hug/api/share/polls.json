@@ -1,0 +1,31 @@
+[
+    {
+        "polls_id": "462d7f16-ffb4-4762-8333-1270b76995a2",
+        "polls_title": "Should I go to Japan?",
+        "username": "chris",
+        "responses": [
+          "yes",
+          "no"
+        ]
+    },
+    {
+        "polls_id": "5fa7d8c0-e2da-4fb0-9fba-4de3d137b8e7",
+        "polls_title": "Ice cream or Pizza?",
+        "username": "steve",
+        "responses": [
+          "Ice cream",
+          "Pizza"
+        ]
+    },
+    {
+        "polls_id": "5398f2cc-c770-42db-955d-dc98c1288b1a",
+        "polls_title": "Am I cool?",
+        "username": "john",
+        "responses": [
+          "Yes",
+          "Maybe",
+          "ehh",
+          "In your dreams"
+        ]
+    }
+]

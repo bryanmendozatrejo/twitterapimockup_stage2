@@ -1,0 +1,16 @@
+[
+    {
+        "polls_id": "462d7f16-ffb4-4762-8333-1270b76995a2",
+        "polls_title": "Should I go to Japan?",
+        "response": "yes",
+        "total_votes_for_response": 1,
+        "total_votes": 2
+    },
+    {
+        "polls_id": "462d7f16-ffb4-4762-8333-1270b76995a2",
+        "polls_title": "Should I go to Japan?",
+        "response": "no",
+        "total_votes_for_response": 1,
+        "total_votes": 2
+    }
+]
